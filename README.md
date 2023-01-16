@@ -1,6 +1,6 @@
 ![Green and White Simple Blog Post Guide LinkedIn Article Cover Image ](https://images.unsplash.com/photo-1672872476232-da16b45c9001?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&h=320&q=80)
 
-:wave: Hey, I am Serhiy, experienced Python engineer. Let me give you a quick overview of my experience.
+:wave: Hey, I am Serhii, experienced Python engineer. Let me give you a quick overview of my experience.
 
 ### Skills
 
